@@ -1,0 +1,1 @@
+windows button, credential manager, windows credentials, gitHub website, click on remove because this credential is not mine, go back to the terminal and configure your own credential, type the command git config --global user.name (shows the owner's name from the repository)
